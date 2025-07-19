@@ -16,7 +16,8 @@ Os arquivos referentes ao Projeto Final, parte integrante da avaliação da disc
 <br><br>
 
 <br><br>
-#### Orientações para execução da aplicação:
+### 🧭 Orientações para execução da aplicação:
+---
 1. Inicie o servidor (producer): 
 
   No terminal, acesse a pasta onde está o projeto AgendamentoMedico_SoapProducer, rode o projeto com o comando: dotnet run.
@@ -28,16 +29,16 @@ Os arquivos referentes ao Projeto Final, parte integrante da avaliação da disc
    
 
 <br><br>
-#### Linguagem:
+### 💻 Linguagem:
 C#
 <br><br>
 
-#### IDE:
+### 🛠️ IDE:
 Microsoft Visual Studio Community 2022 (Versão 17.13.6)<br><br>
 
 
 
-### Autor:
+### 👤 Autor:
 **Taíbe Cruz**
 
 taibe.andrey@pg.inatel.br
