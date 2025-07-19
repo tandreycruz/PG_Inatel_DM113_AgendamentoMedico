@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendamentoMedico_SoapProducer", "AgendamentoMedico_SoapProducer\AgendamentoMedico_SoapProducer.csproj", "{566C9ABA-6C36-4B76-966D-119275DA8C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendamentoMedico_SoapConsumer", "AgendamentoMedico_SoapConsumer\AgendamentoMedico_SoapConsumer.csproj", "{951E6823-A818-4D1E-870D-832F34E00953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566C9ABA-6C36-4B76-966D-119275DA8C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566C9ABA-6C36-4B76-966D-119275DA8C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566C9ABA-6C36-4B76-966D-119275DA8C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566C9ABA-6C36-4B76-966D-119275DA8C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951E6823-A818-4D1E-870D-832F34E00953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E6823-A818-4D1E-870D-832F34E00953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E6823-A818-4D1E-870D-832F34E00953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E6823-A818-4D1E-870D-832F34E00953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934C639C-5798-4A7F-84F4-20D21DB0B773}
+	EndGlobalSection
+EndGlobal
