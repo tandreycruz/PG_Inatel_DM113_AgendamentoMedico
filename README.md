@@ -20,12 +20,14 @@ Os arquivos referentes ao Projeto Final, parte integrante da avaliação da disc
 ---
 1. Inicie o servidor (producer): 
 
-  No terminal, acesse a pasta onde está o projeto AgendamentoMedico_SoapProducer, rode o projeto com o comando: dotnet run.
-  Para confirmar se o serviço foi iniciado sem problemas, acesse pelo browser o endereço http://localhost:5013/Service.asmx?wsdl.
+      No terminal, acesse a pasta onde está o projeto AgendamentoMedico_SoapProducer, rode o projeto com o comando: dotnet run.
+  
+      Para confirmar se o serviço foi iniciado sem problemas, acesse pelo browser o endereço http://localhost:5013/Service.asmx?wsdl.
+  
 
 2. Execute o cliente (consumer): 
 
-  No próprio Microsoft Visual Studio, selecione o item de inicialização AgendamentoMedico_SoapConsumer e inicie a execução da aplicação console.
+      No próprio Microsoft Visual Studio, selecione o item de inicialização AgendamentoMedico_SoapConsumer e inicie a execução da aplicação console.
    
 
 <br><br>
